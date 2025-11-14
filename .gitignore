@@ -1,0 +1,7 @@
+/objs/
+/.vscode/
+
+test.cpp
+test
+*.pre
+*.o
